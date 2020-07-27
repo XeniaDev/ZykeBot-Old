@@ -78,6 +78,6 @@
 	"cheerio": "^1.0.0-rc.2",
     "got": "^9.0.0",
     "querystring": "0.2.0",
-	"quick.db": "7.0.0-b21"
+	"quick.db": "7.1.1"
   }
 }
