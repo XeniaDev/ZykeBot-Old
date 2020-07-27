@@ -56,7 +56,7 @@
     "moment": "^2.20.1",
     "moment-duration-format": "^2.2.0",
     "node-superfetch": "^0.1.9",
-    "node-opus" : "^0.2.1",
+    "node-opus" : "^0.3.0",
     "opusscript": "0.0.6",
     "parse-json-response": "^1.0.1",
 	"path": "^0.12.7",
