@@ -63,7 +63,7 @@
     "random-number": "0.0.7",
 	"request": "^2.85.0", 
     "request-promise-native": "^1.0.5",
-    "retrotext": "^3.0.1",
+    "retrotext": "^4.0.0",
 	"sylphy": "^0.4.5",
     "sqlite3": "^4.0.4",
 	"tape": "^4.9.0",
