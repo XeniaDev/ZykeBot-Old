@@ -8,7 +8,7 @@
     "start": "node bot.js"
   },
   "engines": {
-    "node": "10.3.0"
+    "node": "10.24.0"
   },
   "repository": {
     "type": "git",
@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/ZykeNetwork/ZykeBot#readme",
    "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.0",
     "better-sqlite-pool": "^0.1.2",
     "canvas": "^1.6.7",
     "canvas-constructor" : "2.1.1",
@@ -52,12 +52,12 @@
     "jquery": "^3.5.0",
     "js-base64": "^2.5.0",
     "long-url": "^1.0.2",
-    "mathjs": "^3.8.1",
+    "mathjs": "^9.0.0",
     "moment": "^2.20.1",
     "moment-duration-format": "^2.2.0",
     "node-superfetch": "^0.1.9",
     "node-opus" : "^0.2.1",
-    "opusscript": "0.0.6",
+    "opusscript": "0.0.8",
     "parse-json-response": "^1.0.1",
 	"path": "^0.12.7",
     "random-number": "0.0.7",
