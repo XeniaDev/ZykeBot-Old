@@ -55,7 +55,7 @@
     "mathjs": "^9.0.0",
     "moment": "^2.20.1",
     "moment-duration-format": "^2.2.0",
-    "node-superfetch": "^0.2.0",
+    "node-superfetch": "^0.2.1",
     "node-opus" : "^0.2.1",
     "opusscript": "0.0.8",
     "parse-json-response": "^1.0.1",
