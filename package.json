@@ -65,7 +65,7 @@
     "request-promise-native": "^1.0.5",
     "retrotext": "^3.0.1",
 	"sylphy": "^0.4.5",
-    "sqlite3": "^4.0.4",
+    "sqlite3": "^4.2.0",
 	"tape": "^4.9.0",
     "tempy": "^1.0.0",
     "urban-dictionary": "^2.2.1",
