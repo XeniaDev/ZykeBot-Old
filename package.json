@@ -61,7 +61,7 @@
     "parse-json-response": "^1.0.1",
 	"path": "^0.12.7",
     "random-number": "0.0.7",
-	"request": "^2.85.0", 
+	"request": "^2.88.0", 
     "request-promise-native": "^1.0.5",
     "retrotext": "^3.0.1",
 	"sylphy": "^0.4.5",
